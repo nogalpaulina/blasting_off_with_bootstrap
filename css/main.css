@@ -1,0 +1,18 @@
+html, body {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+
+.features .glyphicon {
+	font-size: 32px;
+	padding-top: 5px;
+}
+
+.footer {
+	color: #d7d3c9;
+	background: #101010;
+}
+
+.footer a {
+	color: #d7d3c9;
+}
